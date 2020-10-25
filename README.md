@@ -6,3 +6,5 @@ This is next
 # local dev
 
 1. Open index.html locally
+
+Have fun!
